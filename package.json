@@ -1,0 +1,28 @@
+{
+  "name": "PESHO",
+  "version": "0.0.1",
+  "description": "PESHO — merged multi-device WhatsApp bot",
+  "main": "index.js",
+  "engines": {
+    "node": ">=20.x"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.21",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "^1.7.9",
+    "dotenv": "^16.3.1",
+    "express": "^4.19.2",
+    "fs-extra": "^11.1.0",
+    "jimp": "^0.16.1",
+    "qrcode-terminal": "^0.12.0",
+    "moment-timezone": "^0.6.0",
+    "pino": "^9.7.0",
+    "pm2": "^6.0.8",
+    "wa-sticker-formatter": "^4.4.4",
+    "yt-search": "^2.13.1"
+  }
+}
