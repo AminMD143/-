@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=80&lines=⧉+𝐏𝐄𝐒𝐇𝐎+⧉;Advanced+WhatsApp+Bot;Multi-Feature+Power;by+AMIN+%26+5YAL" alt="PESHO Banner">
 
 <!-- Bot Profile Image -->
-<img src="https://iili.io/f2NGoZB.md.jpg" width="200" style="border-radius: 20px; border: 3px solid #FF6B6B;" alt="PESHO Bot">
+<img src="https://iili.io/f2NGoZB.md.jpg" width="400" style="border-radius: 20px; border: 3px solid #FF6B6B;" alt="PESHO Bot">
 
 <!-- Version Badge -->
 ![Version](https://img.shields.io/badge/Version-0.0.1-FF6B6B?style=for-the-badge&logo=github)
