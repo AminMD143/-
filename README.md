@@ -11,7 +11,7 @@
 
 <!-- Animated CTA -->
 <a href="https://github.com/AminMD143/-/fork">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=2500&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=500&repeat=true&lines=🚀+FORK+🌟+AND+STAR+✨+TO+SUPPORT+🚀" alt="CTA">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=20&duration=2500&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=500&repeat=true&lines=🚀+FORK+🌟+AND+STAR+✨+TO+SUPPORT+🚀" 
 </a>
 
 </div>
