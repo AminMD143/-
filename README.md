@@ -20,13 +20,9 @@
 
 ## 🎯 About PESHO
 
-<div align="center">
-  
-**"PESHO — Smarter. Faster. Clean."**
-
-*Advanced Multi-Feature WhatsApp Bot with cutting-edge capabilities*
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4F5&center=true&vCenter=true&width=650&lines=PESHO+—+Smarter.+Faster.+Clean.;Advanced+Multi-Feature+WhatsApp+Bot;Cutting-edge+Automation+Capabilities" alt="PESHO Animated Header">
+</p>
 
 ---
 
