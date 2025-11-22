@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=80&lines=⧉+𝐏𝐄𝐒𝐇𝐎+⧉;Advanced+WhatsApp+Bot;Multi-Feature+Power;by+AMIN+%26+5YAL" alt="PESHO Banner">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&height=80&lines=⧉+𝐏𝐄𝐒𝐇𝐎+⧉;Advanced+WhatsApp+Bot;Multi-Feature+Power;by+AMIN+%26+5YAL"
 
 <!-- Bot Profile Image -->
 <img src="https://iili.io/f2NGoZB.md.jpg" width="800" style="border-radius: 20px; border: 3px solid #FF6B6B;" alt="PESHO Bot">
