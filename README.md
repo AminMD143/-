@@ -18,13 +18,7 @@
 
 ---
 
-## 🎯 About PESHO
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C4F5&center=true&vCenter=true&width=650&lines=PESHO+—+Smarter.+Faster.+Clean.;Advanced+Multi-Feature+WhatsApp+Bot;Cutting-edge+Automation+Capabilities" alt="PESHO Animated Header">
-</p>
-
----
 
 ## 👥 Development Team
 
@@ -36,7 +30,7 @@
 📞 `923128942224`
 
 ### 𝟓꯭𝐲ͯ𝐚꯭𝐥
-<img src="https://via.placeholder.com/120/FF6B6B/FFFFFF?text=5YAL" width="120" style="border-radius: 50%; border: 2px solid #FF6B6B;">
+
 <br>
 📞 `923439850348`
 
