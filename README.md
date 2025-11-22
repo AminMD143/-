@@ -42,7 +42,7 @@ Designed with:
 
 ---
 
-# 🔥 Animated Quick Links
+# 🔥 Quick Links
 
 <p align="center">
   <a href="https://github.com/AminMD143/-/fork">
@@ -87,3 +87,51 @@ https://erfan-pair-site.onrender.com
 
 # 🛠 Configuration (env)
 
+OWNER_NAME="๏֟𝐀ᴍɪήᴇ & 𝟓꯭𝐲ͯ𝐚꯭𝐥"
+OWNER_NUMBER="923439850348"
+BOT_NAME="⧉ 𝐏𝐄𝐒𝐇𝐎 ⧉"
+STICKER_PACKNAME="PESHO-BOT"
+STICKER_AUTHOR="AMIN & 5YAL"
+CHANNEL_LINK="https://whatsapp.com/channel/0029Vb6ORgK8PgsKnulWcL0a
+"
+GROUP_LINK="https://chat.whatsapp.com/K0oTClcFT79Ig1mbksehcE?mode=wwt
+"
+WATERMARK="PESHO"
+PREFIX="."
+
+---
+
+# 👥 Owners & Developers
+
+### **๏֟𝐀ᴍɪήᴇ**
+- 📞 **923128942224**
+- 🖼 Avatar: https://freeimage.host/i/f2NemLG
+
+### **𝟓꯭𝐲ͯ𝐚꯭𝐥**
+- 📞 **923439850348**
+
+---
+
+# 📢 Community
+
+<p align="center">
+  <a href="https://chat.whatsapp.com/K0oTClcFT79Ig1mbksehcE?mode=wwt">
+    <img src="https://img.shields.io/badge/PESHO_Group-25D366?style=for-the-badge&logo=whatsapp" />
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb6ORgK8PgsKnulWcL0a">
+    <img src="https://img.shields.io/badge/PESHO_Channel-128C7E?style=for-the-badge&logo=whatsapp" />
+  </a>
+</p>
+
+---
+
+# 📄 License  
+**© PESHO — AMIN & 5YAL**
+
+---
+
+# 🏁 Final Animated Footer
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=20&pause=800&color=00EFFF&width=700&center=true&vCenter=true&lines=Thank+you+for+using+⧉+PESHO+⧉;Professional+WhatsApp+Bot+by+AMIN+%26+5YAL;Deploy+Today+And+Automate+Everything." />
+</p>
